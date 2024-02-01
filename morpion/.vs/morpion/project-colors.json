@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11aa9279-a823-43a6-9fb6-e347ac3ba1b1": {
+      "ProjectGuid": "11aa9279-a823-43a6-9fb6-e347ac3ba1b1",
+      "DisplayName": "morpion",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\hetit\OneDrive\Documents\Multi language de code\C++\pendu\main.cpp(30,52): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  pendu.vcxproj -> C:\Users\hetit\OneDrive\Documents\Multi language de code\C++\pendu\x64\Debug\pendu.exe
